@@ -22,7 +22,7 @@
     "url": "https://intermediario.sanjua.com",
     "icon": "https://favicons.githubusercontent.com/intermediario.sanjua.com",
     "slug": "intermediario",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 279,
     "timeMonth": 329,
     "timeYear": 333,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-27": 0
+    }
   },
   {
     "name": "Indumentaria",
