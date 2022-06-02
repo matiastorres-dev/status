@@ -3,14 +3,12 @@ owner: matiastorres-dev # Your GitHub organization or username, where this repos
 repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: Intermediario
-    url: https://intermediario.sanjua.com
-  - name: Indumentaria
-    url: https://indumentaria.sanjua.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://elintermediario.com.ar
+  - name: Ropa de marca (admin)
+    url: https://admin.ropademarca.com.ar
+  - name: Ropa de marca (api)
+    url: https://api.ropademarca.com.ar  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
