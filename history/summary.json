@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/elintermediario.com.ar",
     "slug": "intermediario",
     "status": "up",
-    "uptime": "93.95%",
+    "uptime": "93.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.95%",
+    "uptimeYear": "93.98%",
     "time": 344,
     "timeDay": 595,
     "timeWeek": 459,
@@ -31,7 +31,7 @@
     "url": "https://admin.ropademarca.com.ar",
     "icon": "https://favicons.githubusercontent.com/admin.ropademarca.com.ar",
     "slug": "ropa-de-marca-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -42,7 +42,9 @@
     "timeWeek": 383,
     "timeMonth": 342,
     "timeYear": 332,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-27": 0
+    }
   },
   {
     "name": "Ropa de marca (api)",
@@ -61,7 +63,7 @@
     "timeMonth": 845,
     "timeYear": 798,
     "dailyMinutesDown": {
-      "2022-07-27": 35,
+      "2022-07-27": 554,
       "2022-07-26": 1440,
       "2022-07-25": 1440,
       "2022-07-24": 1440,
