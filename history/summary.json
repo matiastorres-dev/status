@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/elintermediario.com.ar.ico",
     "slug": "intermediario",
     "status": "down",
-    "uptime": "82.04%",
+    "uptime": "81.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2023-05-31": 32,
+      "2023-06-01": 40,
+      "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
@@ -85,8 +86,7 @@
       "2023-03-26": 1440,
       "2023-03-25": 533,
       "2022-06-08": 18,
-      "2022-06-02": 282,
-      "2022-06-01": 1440
+      "2022-06-02": 282
     }
   },
   {
@@ -95,18 +95,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.ropademarca.com.ar.ico",
     "slug": "ropa-de-marca-admin",
     "status": "down",
-    "uptime": "54.13%",
+    "uptime": "53.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.13%",
+    "uptimeYear": "53.98%",
     "time": 340,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2023-05-31": 32,
+      "2023-06-01": 40,
+      "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
@@ -296,7 +297,8 @@
     "timeMonth": 0,
     "timeYear": 781,
     "dailyMinutesDown": {
-      "2023-05-31": 32,
+      "2023-06-01": 40,
+      "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
