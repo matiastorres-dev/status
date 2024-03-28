@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/elintermediario.com.ar.ico",
     "slug": "intermediario",
     "status": "up",
-    "uptime": "85.05%",
+    "uptime": "85.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "73.17%",
-    "time": 774,
-    "timeDay": 873,
-    "timeWeek": 926,
-    "timeMonth": 833,
-    "timeYear": 912,
+    "uptimeYear": "73.44%",
+    "time": 775,
+    "timeDay": 669,
+    "timeWeek": 869,
+    "timeMonth": 828,
+    "timeYear": 911,
     "dailyMinutesDown": {
       "2024-01-12": 18,
       "2023-11-14": 42,
@@ -113,8 +113,7 @@
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
-      "2023-03-30": 1440,
-      "2023-03-29": 1440
+      "2023-03-30": 1440
     }
   },
   {
@@ -123,18 +122,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.ropademarca.com.ar.ico",
     "slug": "ropa-de-marca-admin",
     "status": "down",
-    "uptime": "29.58%",
+    "uptime": "29.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
-    "time": 332,
+    "time": 333,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-27": 26,
+      "2024-03-28": 27,
+      "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
@@ -497,8 +497,7 @@
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
-      "2023-03-30": 1440,
-      "2023-03-29": 1440
+      "2023-03-30": 1440
     }
   },
   {
@@ -518,7 +517,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-27": 26,
+      "2024-03-28": 27,
+      "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
@@ -881,8 +881,7 @@
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
-      "2023-03-30": 1440,
-      "2023-03-29": 1440
+      "2023-03-30": 1440
     }
   }
 ]
