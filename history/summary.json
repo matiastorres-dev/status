@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/elintermediario.com.ar.ico",
     "slug": "intermediario",
     "status": "up",
-    "uptime": "86.21%",
+    "uptime": "86.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.57%",
+    "uptimeYear": "89.84%",
     "time": 830,
-    "timeDay": 632,
-    "timeWeek": 717,
-    "timeMonth": 734,
-    "timeYear": 893,
+    "timeDay": 627,
+    "timeWeek": 711,
+    "timeMonth": 732,
+    "timeYear": 892,
     "dailyMinutesDown": {
       "2024-04-18": 206,
       "2024-01-12": 18,
@@ -54,8 +54,7 @@
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
-      "2023-05-29": 1440,
-      "2023-05-28": 1440
+      "2023-05-29": 1440
     }
   },
   {
@@ -64,18 +63,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.ropademarca.com.ar.ico",
     "slug": "ropa-de-marca-admin",
     "status": "down",
-    "uptime": "27.13%",
+    "uptime": "27.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 296,
+    "time": 294,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-26": 32,
+      "2024-05-27": 30,
+      "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
@@ -438,8 +438,7 @@
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
-      "2023-05-29": 1440,
-      "2023-05-28": 1440
+      "2023-05-29": 1440
     }
   },
   {
@@ -459,7 +458,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-26": 32,
+      "2024-05-27": 30,
+      "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
@@ -822,8 +822,7 @@
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
-      "2023-05-29": 1440,
-      "2023-05-28": 1440
+      "2023-05-29": 1440
     }
   }
 ]
