@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/elintermediario.com.ar.ico",
     "slug": "intermediario",
     "status": "down",
-    "uptime": "84.29%",
+    "uptime": "84.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "28.37%",
-    "uptimeYear": "93.96%",
-    "time": 876,
+    "uptimeMonth": "25.08%",
+    "uptimeYear": "93.69%",
+    "time": 877,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 654,
-    "timeYear": 874,
+    "timeMonth": 661,
+    "timeYear": 873,
     "dailyMinutesDown": {
-      "2024-07-11": 31,
+      "2024-07-12": 30,
+      "2024-07-11": 1440,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
@@ -51,18 +52,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.ropademarca.com.ar.ico",
     "slug": "ropa-de-marca-admin",
     "status": "down",
-    "uptime": "25.51%",
+    "uptime": "25.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 286,
+    "time": 278,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-11": 31,
+      "2024-07-12": 30,
+      "2024-07-11": 1440,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
@@ -425,8 +427,7 @@
       "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
-      "2023-07-14": 1440,
-      "2023-07-13": 1440
+      "2023-07-14": 1440
     }
   },
   {
@@ -446,7 +447,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-11": 31,
+      "2024-07-12": 30,
+      "2024-07-11": 1440,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
@@ -809,8 +811,7 @@
       "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
-      "2023-07-14": 1440,
-      "2023-07-13": 1440
+      "2023-07-14": 1440
     }
   }
 ]
